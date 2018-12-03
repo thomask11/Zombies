@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: a705672e545349b4692db34726779b52
+timeCreated: 1526569523
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_004
+    100006: Cube_005
+    100008: Cube_006
+    100010: Cube_007
+    100012: Cube_008
+    100014: Cylinder
+    100016: Cylinder_001
+    100018: Cylinder_002
+    100020: //RootNode
+    100022: arm_l
+    100024: arm_r
+    100026: Armature
+    100028: fingers_l
+    100030: fingers_r
+    100032: foot__l
+    100034: foot__r
+    100036: forearm_l
+    100038: forearm_r
+    100040: hand_l
+    100042: hand_r
+    100044: Head
+    100046: Head_001
+    100048: Head_002
+    100050: Head_003
+    100052: Hip
+    100054: leg_ctrl_l
+    100056: leg_ctrl_r
+    100058: leg_l
+    100060: leg_r
+    100062: Lower_torso
+    100064: lowerleg_l
+    100066: lowerleg_r
+    100068: Neck
+    100070: torso
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_004
+    400006: Cube_005
+    400008: Cube_006
+    400010: Cube_007
+    400012: Cube_008
+    400014: Cylinder
+    400016: Cylinder_001
+    400018: Cylinder_002
+    400020: //RootNode
+    400022: arm_l
+    400024: arm_r
+    400026: Armature
+    400028: fingers_l
+    400030: fingers_r
+    400032: foot__l
+    400034: foot__r
+    400036: forearm_l
+    400038: forearm_r
+    400040: hand_l
+    400042: hand_r
+    400044: Head
+    400046: Head_001
+    400048: Head_002
+    400050: Head_003
+    400052: Hip
+    400054: leg_ctrl_l
+    400056: leg_ctrl_r
+    400058: leg_l
+    400060: leg_r
+    400062: Lower_torso
+    400064: lowerleg_l
+    400066: lowerleg_r
+    400068: Neck
+    400070: torso
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_004
+    2300006: Cube_005
+    2300008: Cube_006
+    2300010: Cube_007
+    2300012: Cube_008
+    2300014: Cylinder
+    2300016: Cylinder_001
+    2300018: Cylinder_002
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_004
+    3300006: Cube_005
+    3300008: Cube_006
+    3300010: Cube_007
+    3300012: Cube_008
+    3300014: Cylinder
+    3300016: Cylinder_001
+    3300018: Cylinder_002
+    4300000: Cube_008
+    4300002: Cube_007
+    4300004: Cube_006
+    4300006: Cube_005
+    4300008: Cube_004
+    4300010: Cylinder_002
+    4300012: Cube_001
+    4300014: Cylinder_001
+    4300016: Cylinder
+    4300018: Cube
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mask__Savior_MkII_psd
+    second: {fileID: 2100000, guid: 4b71860406ce90944bcd18929b8ab559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_1__Savior_MkII_psd
+    second: {fileID: 2100000, guid: 480b3c7c14d193943b51458ec822e0f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_2
+    second: {fileID: 2100000, guid: e193ffbc8a3fe5e40a8ac28f6a27b2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_2__Savior_MkII_psd
+    second: {fileID: 2100000, guid: b45c0b7fb7378a944968e85c73364dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_3
+    second: {fileID: 2100000, guid: e193ffbc8a3fe5e40a8ac28f6a27b2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_3__Savior_MkII_psd
+    second: {fileID: 2100000, guid: 1dc8d0c5c1f281f479df29592e80b6ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_colour_4__Savior_MkII_psd
+    second: {fileID: 2100000, guid: 79df287510da35b4c98a22e8509a17a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Savior_light
+    second: {fileID: 2100000, guid: e193ffbc8a3fe5e40a8ac28f6a27b2a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
