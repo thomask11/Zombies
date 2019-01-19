@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 23b49d9f5b7892d459a8bb1125a123b0
-timeCreated: 1547308146
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: Cube
@@ -11,32 +9,53 @@ ModelImporter:
     100006: Cube_002
     100008: Cube_003
     100010: Cube_004
+    100012: Cube_005
     400000: //RootNode
     400002: Cube
     400004: Cube_001
     400006: Cube_002
     400008: Cube_003
     400010: Cube_004
+    400012: Cube_005
     2300000: //RootNode
     2300002: Cube
     2300004: Cube_001
     2300006: Cube_002
     2300008: Cube_003
     2300010: Cube_004
+    2300012: Cube_005
     3300000: //RootNode
     3300002: Cube
     3300004: Cube_001
     3300006: Cube_002
     3300008: Cube_003
     3300010: Cube_004
+    3300012: Cube_005
     4300000: Cube
     4300002: Cube_001
     4300004: Cube_002
     4300006: Cube_003
     4300008: Cube_004
+    4300010: Cube_005
     7400000: Default Take
     9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__bathroom_tiles_psd
+    second: {fileID: 2100000, guid: 60f8628377c5acf4ca6fd07abcb63fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__ground_planks_tileable_psd
+    second: {fileID: 2100000, guid: efd4f969f1da0624a81d224e9008eebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__texture_atlas_psd
+    second: {fileID: 2100000, guid: 7f2eda06124375f4e98080baf9ff381f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -60,6 +79,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -74,6 +94,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -84,16 +105,23 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -108,7 +136,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
