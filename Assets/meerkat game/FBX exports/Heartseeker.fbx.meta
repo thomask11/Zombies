@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: e3c84877b2a1530458a66324e0e06e4c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Armature.002
+    100004: Armature.003
+    100006: Armature.004
+    100008: Armature.005
+    100010: Circle.001
+    100012: Cube_Cube.000
+    100014: //RootNode
+    100016: mixamorig:Head
+    100018: mixamorig:Head_end
+    100020: mixamorig:Hips
+    100022: mixamorig:Hips.001
+    100024: mixamorig:Hips.002
+    100026: mixamorig:Hips.003
+    100028: mixamorig:Hips.003_end
+    100030: mixamorig:Hips.003_end_end
+    100032: mixamorig:LeftArm
+    100034: mixamorig:LeftFoot
+    100036: mixamorig:LeftFoot_end
+    100038: mixamorig:LeftForeArm
+    100040: mixamorig:LeftHand
+    100042: mixamorig:LeftHand_end
+    100044: mixamorig:LeftLeg
+    100046: mixamorig:LeftShoulder
+    100048: mixamorig:LeftUpLeg
+    100050: mixamorig:Neck
+    100052: mixamorig:RightArm
+    100054: mixamorig:RightFoot
+    100056: mixamorig:RightFoot_end
+    100058: mixamorig:RightForeArm
+    100060: mixamorig:RightHand
+    100062: mixamorig:RightHand_end
+    100064: mixamorig:RightLeg
+    100066: mixamorig:RightShoulder
+    100068: mixamorig:RightUpLeg
+    100070: mixamorig:Spine
+    100072: mixamorig:Spine1
+    100074: mixamorig:Spine2
+    100076: Cube.001
+    400000: Armature.001
+    400002: Armature.002
+    400004: Armature.003
+    400006: Armature.004
+    400008: Armature.005
+    400010: Circle.001
+    400012: Cube_Cube.000
+    400014: //RootNode
+    400016: mixamorig:Head
+    400018: mixamorig:Head_end
+    400020: mixamorig:Hips
+    400022: mixamorig:Hips.001
+    400024: mixamorig:Hips.002
+    400026: mixamorig:Hips.003
+    400028: mixamorig:Hips.003_end
+    400030: mixamorig:Hips.003_end_end
+    400032: mixamorig:LeftArm
+    400034: mixamorig:LeftFoot
+    400036: mixamorig:LeftFoot_end
+    400038: mixamorig:LeftForeArm
+    400040: mixamorig:LeftHand
+    400042: mixamorig:LeftHand_end
+    400044: mixamorig:LeftLeg
+    400046: mixamorig:LeftShoulder
+    400048: mixamorig:LeftUpLeg
+    400050: mixamorig:Neck
+    400052: mixamorig:RightArm
+    400054: mixamorig:RightFoot
+    400056: mixamorig:RightFoot_end
+    400058: mixamorig:RightForeArm
+    400060: mixamorig:RightHand
+    400062: mixamorig:RightHand_end
+    400064: mixamorig:RightLeg
+    400066: mixamorig:RightShoulder
+    400068: mixamorig:RightUpLeg
+    400070: mixamorig:Spine
+    400072: mixamorig:Spine1
+    400074: mixamorig:Spine2
+    400076: Cube.001
+    2100000: No Name
+    4300000: Cube_Cube.000
+    4300002: Circle.001
+    4300004: Cube.001
+    7400000: Armature.005|Armature.003|Armature.002|Armature|mixamo.com|Layer0|Armature.0
+    7400002: Armature.005|Armature.004|Armature.001|Armature|mixamo.com|Layer0|Armature.0
+    7400004: Armature.005|Armature.005|Armature|Armature|mixamo.com|Layer0|Armature|Armat
+    7400006: Armature.004|Armature.003|Armature.002|Armature|mixamo.com|Layer0|Armature.0
+    7400008: Armature.004|Armature.004|Armature.001|Armature|mixamo.com|Layer0|Armature.0
+    7400010: Armature.003|Armature.003|Armature.002|Armature|mixamo.com|Layer0|Armature.0
+    7400012: Armature.003|Armature.004|Armature.001|Armature|mixamo.com|Layer0|Armature.0
+    7400014: Armature.002|Armature.003|Armature.002|Armature|mixamo.com|Layer0|Armature.0
+    7400016: Armature.002|Armature.004|Armature.001|Armature|mixamo.com|Layer0|Armature.0
+    7400018: Armature.002|Armature|mixamo.com|Layer0
+    7400020: Armature.001|Armature.003|Armature.002|Armature|mixamo.com|Layer0|Armature.0
+    7400022: Armature.001|Armature.004|Armature.001|Armature|mixamo.com|Layer0|Armature.0
+    7400024: Armature.001|Armature|mixamo.com|Layer0
+    9500000: //RootNode
+    13700000: Circle.001
+    13700002: Cube_Cube.000
+    13700004: Cube.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
